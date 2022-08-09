@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohamad Hosein Hamzenejad, a Frontend Developer 👨‍💻 working since 2019 🚀  
+## Hi there 👋 I'm Mohamad Hosein Hamzenejad, working as a Frontend Developer since 2019 👨‍💻🚀  
   
 
 <a href="https://github.com/hoseinhamzei" target="_blank">
