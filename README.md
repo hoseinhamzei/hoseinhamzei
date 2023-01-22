@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I'm a Passionate Front End Developer with 3+ years of experience developing Websites and Web Applications using React, Vue, HTML, CSS, JavaScript, TypeScript and other related libraries and technologies, including Redux and Next.js. My goal as a developer is to keep improving and stay up to date with the latest web development trends and keep delivering high quality and performant user interfaces and applications  
+I'm a Passionate Front End Developer with 4+ years of experience developing Websites and Web Applications using React, Vue, HTML, CSS, JavaScript, TypeScript and other related libraries and technologies, including Redux and Next.js. My goal as a developer is to keep improving and stay up to date with the latest web development trends and keep delivering high quality and performant user interfaces and applications  
   
 
 <br/>  
