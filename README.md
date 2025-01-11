@@ -21,7 +21,9 @@
 
 
 ### Glad to see you here!  
-I'm a Passionate Front End Developer with 4+ years of experience developing Websites and Web Applications using React, Vue, HTML, CSS, JavaScript, TypeScript and other related libraries and technologies, including Redux and Next.js. My goal as a developer is to keep improving and stay up to date with the latest web development trends and keep delivering high quality and performant user interfaces and applications  
+I am a front-end developer with over 5 years of experience delivering impactful websites and web applications using modern technologies such as React, Vue, HTML, CSS, JavaScript, and TypeScript. I have hands-on expertise with tools most notably Next.js and Angular, and complementary experience with Node.js, Express, and both relational and NoSQL databases.
+With an MSc in Software Development and multiple publications, I combine a strong academic foundation with practical skills to build performant, user-centric applications. I thrive in dynamic environments, stay ahead of industry trends, and prioritize creating solutions that align with both user needs and business goals.
+I’m passionate about contributing to innovative teams where I can apply my skills to drive meaningful results, while continuing to grow as a developer.
   
 
 <br/>  
