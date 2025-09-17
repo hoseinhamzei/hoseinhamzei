@@ -30,7 +30,7 @@ I’m passionate about contributing to innovative teams where I can apply my ski
 
 
 ## Skills
-Here is the list of some of my skills:
+Here is a list of some of my skills:
 
 
 ### Languages
