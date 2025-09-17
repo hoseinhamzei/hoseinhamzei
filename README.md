@@ -22,7 +22,7 @@
 
 ### Glad to see you here!  
 Frontend Engineer with over 7 years of experience delivering impactful websites and web applications using modern technologies such as React, Vue, HTML, CSS, JavaScript, and TypeScript. I have hands-on expertise with modern frameworks most notably Next.js and Angular, and complementary experience with Node.js, Express, and both relational and NoSQL databases for full stack development.
-With an MSc in Software Development and multiple publications, I combine a strong academic foundation with practical skills to design, architect and build performant, user-centric applications. I thrive in dynamic environments, stay ahead of industry trends, and prioritize creating solutions that align with both user needs and business goals.
+With an MSc in Software Engineering and multiple publications, I combine a strong academic foundation with practical skills to design, architect and build performant, user-centric applications. I thrive in dynamic environments, stay ahead of industry trends, and prioritize creating solutions that align with both user needs and business goals.
 I’m passionate about contributing to innovative teams where I can apply my skills to drive meaningful results, while continuing to grow as a developer.
   
 
