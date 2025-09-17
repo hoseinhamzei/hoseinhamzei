@@ -30,7 +30,6 @@ I’m passionate about contributing to innovative teams where I can apply my ski
 
 
 ## Skills
-## Skills
 As mainly a Frontend Engineer, I specialize in building dynamic and responsive web applications with React and Next.js as my core expertise with hands on experience with Angular and Vue. While frontend is my primary expertise, I also bring full-stack capabilities with Node.js, Express.js, both SQL and NoSql databases, and API integrations, along with knowledge in DevOps and cloud tools to deliver scalable, end-to-end solutions. Here is the list of some of my skills:
 
 
