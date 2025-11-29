@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohamad Hosein Hamzenejad, working as a Web Developer since 2018 👨‍💻🚀  
+## Hi there 👋 I'm Hosein Hamzenejadi, working as a Web Developer since 2018 👨‍💻🚀  
   
 
 <a href="https://github.com/hoseinhamzei" target="_blank">
