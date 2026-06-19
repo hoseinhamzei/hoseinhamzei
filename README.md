@@ -33,7 +33,7 @@ I’m passionate about contributing to innovative teams where I can apply my ski
 Here is a list of some of my skills:
 
 
-### Programming, styling and markup Languages
+### Programming Languages
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
